@@ -2,8 +2,6 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Project Structure](#project-structure)
-- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
-- [Data Analysis](#data-analysis)
 - [Data Visualization](#data-visualization)
 - [Analysis Results](#analysis-results)
 - [Recommendations](#recommendations)
