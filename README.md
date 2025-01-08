@@ -1,4 +1,4 @@
-# Coffee Order Analysis
+# Coffee Order Data Visualization project using Tableau
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Project Structure](#project-structure)
