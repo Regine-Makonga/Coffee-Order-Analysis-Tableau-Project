@@ -53,6 +53,14 @@ By analyzing the results obtained from our dashboard, we observed:
 ## Limitations
 We had been limited in our visualizations and analysis following the availability of data, we could perform other analyzes such as visualizations and analysis on Profit for example but we did not have the information related to Profit
 
+## Access the files
+ - To run the project, make sure you have installed  Tableau.
+ - Download the Coffee orders Dataset .
+ - For the data visualizations use the [visualizations.ipynb](LACrime_Analysis_Visualization.ipynb) on Tableau.
+
+## References
+[tableau](https://www.coursera.org/learn/introduction-to-business-analytics/home/module/1)
+
 
 
 
