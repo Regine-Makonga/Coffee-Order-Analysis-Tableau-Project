@@ -55,9 +55,9 @@ By analyzing the results obtained from our dashboard, we observed:
 We had been limited in our visualizations and analysis following the availability of data, we could perform other analyzes such as visualizations and analysis on Profit for example but we did not have the information related to Profit
 
 ## Access the files
- - For the data visualizations [go to](https://public.tableau.com/views/CoffeeordersDashboard/CoffeeOrdersDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)or use the [visualizations.ipynb](LACrime_Analysis_Visualization.ipynb) on Tableau desktop
+ - For the data visualizations [go to](https://public.tableau.com/views/CoffeeordersDashboard/CoffeeOrdersDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) or use the [visualizations.ipynb](LACrime_Analysis_Visualization.ipynb) on Tableau desktop
  - To run the project, make sure you have installed  Tableau desktop.
- - Download the Coffee orders Dataset .
+ - Download the [Coffee orders Dataset.xlsx] .
 
 ## References
 [Data-Visualization-with-Tableau-Specialization](https://www.coursera.org/specializations/data-visualization)
