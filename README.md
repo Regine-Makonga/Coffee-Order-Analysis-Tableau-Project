@@ -20,5 +20,13 @@ BikesSalesProject.xlsx:
 Our tableau project containing the data visualization in an interactive dashboard.
 
 ## Data Visualization
-We Created Interactive using Tableau public.
+We Created Interactive dashboard using Tableau public, the dashboard provides insights into the coffee company's sales performance and customer behavior. Key metrics and visualizations include:
+ - Total Sales and YoY (Year-over-Year) sales pourcentage change
+ - Revenue by Coffee Type contribution
+ - Top 10 Customers
+ - Coffee Orders by Roast Type
+ - Orders Over Time
+ - Orders by Quantity and Roast Type
+ - Orders by Country
+   
 
