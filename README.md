@@ -28,5 +28,23 @@ We Created Interactive dashboard using Tableau public, the dashboard provides in
  - Orders Over Time
  - Orders by Quantity and Roast Type
  - Orders by Country
+
+
+#### Coffee orders Dashboard
+<img width="796" alt="coffee order dashboard" src="https://github.com/user-attachments/assets/c3cbddc4-ab07-42b7-89fc-af4f212810da" />
+
+## Analysis Results
+By analyzing the results obtained from our dashboard, we observed:
+ - Low coffee sales in 2020 with 0.6% less sales than 2019 (-0.6% YoY), relatively stable sales in 2021 with 13.6% more sales than 2021 (+13.6% YoY) but a significant decrease in sales in 2022 with -48.7% then 2021 (-48.7% YoY). The negative growth can indicates potential market saturation or reduced customer engagement.
+ - The top 10 customers for a significant portion of sales, which could indicate dependence on key customers. Retention and satisfaction of these customers are critical.
+ - Excelsa and Liberica coffee types are driving revenue. Robusta is underperforming in both sales and roast type preferences.
+ - Dark roasts coffee are significantly more popular than light roasts coffee and medium roast coffee.
+ - Sales are heavily concentrated in the U.S.
+ - Sales are consistent over months without any evident spikes, suggesting no clear seasonal or promotional sales boosts.
+## Recommendations
+
+
+
+
    
 
