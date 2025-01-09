@@ -42,6 +42,14 @@ By analyzing the results obtained from our dashboard, we observed:
  - Sales are heavily concentrated in the U.S.
  - Sales are consistent over months without any evident spikes, suggesting no clear seasonal or promotional sales boosts.
 ## Recommendations
+ - Focus on loyalty programs for the top 10 customers to retain their contribution to sales. Identify potential customers with similar profiles to the top 10 and target them with marketing campaigns.
+ - Investigate why there were low sales in 2020 and 2022 than in 2019 and 2021.
+ - Investigate why Robusta is underperforming. Consider improving its quality, changing its pricing strategy, or promoting it through bundled offers with popular products like Excelsa and Liberica.
+ - Develop more variations in dark roasts since they are the most popular.
+ - Explore untapped markets by analyzing potential demand in countries with similar coffee preferences.
+ - Launch seasonal promotions or discounts to create sales spikes during specific periods.
+ - Introduce campaigns highlighting the uniqueness of Excelsa and Liberica.
+ - Collect customer feedback on the existing product range and services to improve overall satisfaction and identify areas for innovation.
 
 
 
