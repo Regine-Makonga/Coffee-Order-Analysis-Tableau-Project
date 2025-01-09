@@ -57,7 +57,7 @@ We had been limited in our visualizations and analysis following the availabilit
 ## Access the files
  - For the data visualizations [go to](https://public.tableau.com/views/CoffeeordersDashboard/CoffeeOrdersDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) or use the [visualizations.ipynb](LACrime_Analysis_Visualization.ipynb) on Tableau desktop
  - To run the project, make sure you have installed  Tableau desktop.
- - Download the [Coffee orders Dataset.xlsx] .
+ - Download the [Coffee orders Dataset.xlsx](Coffee_Orders_Data.xlsx).
 
 ## References
 [Data-Visualization-with-Tableau-Specialization](https://www.coursera.org/specializations/data-visualization)
