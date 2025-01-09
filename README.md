@@ -31,7 +31,7 @@ We Created Interactive dashboard using Tableau public, the dashboard provides in
 
 
 #### Coffee orders Dashboard
-<img width="796" alt="coffee order dashboard" src="https://github.com/user-attachments/assets/c3cbddc4-ab07-42b7-89fc-af4f212810da" />
+<img width="788" alt="coffee orders dashboard" src="https://github.com/user-attachments/assets/ad3e7301-e286-4229-941e-98f3b8936692" />
 
 ## Analysis Results
 By analyzing the results obtained from our dashboard, we observed:
@@ -50,6 +50,8 @@ By analyzing the results obtained from our dashboard, we observed:
  - Launch seasonal promotions or discounts to create sales spikes during specific periods.
  - Introduce campaigns highlighting the uniqueness of Excelsa and Liberica.
  - Collect customer feedback on the existing product range and services to improve overall satisfaction and identify areas for innovation.
+## Limitations
+We had been limited in our visualizations and analysis following the availability of data, we could perform other analyzes such as visualizations and analysis on Profit for example but we did not have the information related to Profit
 
 
 
