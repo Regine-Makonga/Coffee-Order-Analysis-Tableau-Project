@@ -59,7 +59,7 @@ We had been limited in our visualizations and analysis following the availabilit
  - For the data visualizations use the [visualizations.ipynb](LACrime_Analysis_Visualization.ipynb) on Tableau.
 
 ## References
-[tableau](https://www.coursera.org/learn/introduction-to-business-analytics/home/module/1)
+[Data-Visualization-with-Tableau-Specialization](https://www.coursera.org/specializations/data-visualization)
 
 
 
